@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://lubit.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2021-11-10T11:21:38+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://lubit.github.io/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lubit.github.io/authors/</loc>
+    <lastmod>2021-11-10T11:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lubit.github.io/posts/</loc>
+    <lastmod>2021-11-10T11:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lubit.github.io/authors/thues/</loc>
+    <lastmod>2021-11-10T11:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lubit.github.io/</loc>
+    <lastmod>2021-11-10T11:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lubit.github.io/posts/first/</loc>
+    <lastmod>2021-11-10T11:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://lubit.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lubit.github.io/series/</loc>
+  </url><url>
+    <loc>https://lubit.github.io/tags/</loc>
+  </url>
+</urlset>
