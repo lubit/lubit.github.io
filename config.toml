@@ -45,6 +45,13 @@ customSCSS = []
 # Custom JS
 customJS = []
 
+# github issue 为基础的评论插件
+[params.utteranc]
+  enable = true
+  repo = "lubit/lubit.github.io" ##换成自己得
+  issueTerm = "title"
+  theme = "github-light"
+
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
 # siteID = "ABCDE"
@@ -101,31 +108,26 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/lubit/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/lubit/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+weight = 2 
+url = "https://twitter.com/xthesues/"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa fa-linkedin"
+# weight = 4
+# url = "https://www.linkedin.com/in/johndoe/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
 
 [[params.social]]
 name = "RSS"
@@ -159,18 +161,18 @@ weight = 5
 url = "contact/"
 
 [languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+languageName = ":chinese:"
+title = "thues"
 
 [languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
+author = "thesues"
+info = "adsys,recsys,blockchain"
+description = "手元に"
 keywords = "blog,desenvolvedor,pessoal"
 footerContent = "Coloque algum texto aqui."
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "About"
 weight = 1
 url = "about/"
 
@@ -180,11 +182,11 @@ weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "Project"
 weight = 3
 url = "projects/"
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "Contact"
 weight = 5
 url = "contact/"
