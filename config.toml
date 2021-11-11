@@ -169,7 +169,7 @@ author = "thesues"
 info = "adsys,recsys,blockchain"
 description = "手元に"
 keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
+footerContent = ""
 
 [[languages.pt-br.menu.main]]
 name = "About"
