@@ -44,8 +44,7 @@ customSCSS = []
 customJS = []
 
 # github issue 为基础的评论插件
-[params.utteranc]
-  enable = true
+[params.utterances]
   repo = "lubit/lubit.github.io" 
   issueTerm = "title"
   theme = "github-light"
