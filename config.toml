@@ -48,7 +48,7 @@ customJS = []
 # github issue 为基础的评论插件
 [params.utteranc]
   enable = true
-  repo = "lubit/lubit.github.io" ##换成自己得
+  repo = "lubit/lubit.github.io" 
   issueTerm = "title"
   theme = "github-light"
 
@@ -160,33 +160,33 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":chinese:"
-title = "thues"
+# [languages.pt-br]
+# languageName = ":chinese:"
+# title = "thues"
 
-[languages.pt-br.params]
-author = "thesues"
-info = "adsys,recsys,blockchain"
-description = "手元に"
-keywords = "blog,desenvolvedor,pessoal"
-footerContent = ""
+# [languages.pt-br.params]
+# author = "thesues"
+# info = "adsys,recsys,blockchain"
+# description = "手元に"
+# keywords = "blog,desenvolvedor,pessoal"
+# footerContent = ""
 
-[[languages.pt-br.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.pt-br.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.pt-br.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Project"
-weight = 3
-url = "projects/"
+# [[languages.pt-br.menu.main]]
+# name = "Project"
+# weight = 3
+# url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "Contact"
-weight = 5
-url = "contact/"
+# [[languages.pt-br.menu.main]]
+# name = "Contact"
+# weight = 5
+# url = "contact/"
