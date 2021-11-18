@@ -1,5 +1,5 @@
 baseURL = "https://lubit.github.io"
-title = "thues"
+title = "tictoc"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,11 +13,11 @@ publishDir = "docs"
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Theus"
-description = "thues's personal website"
+author = "TICTOC"
+description = "tictoc"
 keywords = "blog,developer,personal"
-info = ["AdSys", "RecSys", "Blockchain"]
-avatarURL = "images/avatar.jpg"
+#info = ["AdSys", "RecSys", "Blockchain"]
+avatarURL = "images/tictoc.gif"
 dateFormat = "January 2, 2006"
 hideCredits = false
 hideCopyright = false
