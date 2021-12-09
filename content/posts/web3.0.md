@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2021-11-10T11:21:38+08:00
-title = "Web1.0 2.0 3.0"
+title = "Web3.0"
 description = ""
 slug = ""
 authors = ["thues"]
