@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2021-11-01T11:21:38+08:00
-title = "chitchat"
+title = ""
 description = ""
 slug = ""
 authors = ["thues"]
@@ -11,6 +11,7 @@ externalLink = ""
 series = []
 +++
 
-chitchat 
+MAIL: xiao.pl@qq.com
+
 
 <!--more-->
