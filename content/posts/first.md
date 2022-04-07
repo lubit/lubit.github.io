@@ -1,16 +1,15 @@
 +++ 
 draft = false
-date = 2021-11-01T11:21:38+08:00
+# date = 2021-11-01T11:21:38+08:00
+# authors = ["thues"]
 title = "chitchat"
 description = ""
 slug = ""
-authors = ["thues"]
 tags = []
 categories = []
 externalLink = ""
 series = []
 +++
 
-chitchat 
 
 <!--more-->
